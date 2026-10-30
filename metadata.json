@@ -1,0 +1,6 @@
+{
+  "name": "Sudan Commodity Value Ladder Studio",
+  "description": "Interactive 10-level value addition, industrial processing, and economic transformation matrix for major commodities: Karkade, Sesame, Gold, Gum Arabic, and Leather.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
